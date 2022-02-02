@@ -19,6 +19,7 @@
 
 body{
     font-family: 'Poppins' ,sans-serif;  
+    overflow-x: hidden
 }
 
 html{
@@ -58,6 +59,7 @@ header nav {
 
 header nav .branding{
     margin-right: 3rem;
+
 }
 
 .hero{
